@@ -59,5 +59,3 @@ A role-based task and bug tracking web application built with **React**, **Tailw
 
 ---
 
-## 📁 Folder Structure
-
